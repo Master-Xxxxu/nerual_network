@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../222/.idea/222.iml" filepath="$PROJECT_DIR$/../222/.idea/222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonWorkspace/kmeans/.idea/kmeans.iml" filepath="$PROJECT_DIR$/../pythonWorkspace/kmeans/.idea/kmeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonWorkspace/nerual_network/.idea/network.iml" filepath="$PROJECT_DIR$/../pythonWorkspace/nerual_network/.idea/network.iml" />
+    </modules>
+  </component>
+</project>
